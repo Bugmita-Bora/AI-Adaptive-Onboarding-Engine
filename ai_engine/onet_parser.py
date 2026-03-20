@@ -73,22 +73,22 @@ def build_catalog(skills_df):
     
     # Target jobs across 3 domains
     target_jobs = {
-        "technical": [
-            "Software Developer",
-            "Data Scientist",
-            "Network Administrator"
-        ],
-        "business": [
-            "Human Resources Manager",
-            "Marketing Manager",
-            "Financial Analyst"
-        ],
-        "operational": [
-            "Warehouse Supervisor",
-            "Logistics Manager",
-            "Production Supervisor"
-        ]
-    }
+    "technical": [
+        "Software Developers",
+        "Computer Network Architects",
+        "Network and Computer Systems Administrators"
+    ],
+    "business": [
+        "Human Resources Managers",
+        "Marketing Managers",
+        "Financial Managers",
+    ],
+    "operational": [
+        "First-Line Supervisors of Production and Operating Workers",
+        "Logisticians",
+        "Industrial Production Managers"
+    ]
+}
     
     # Real course links for common skills
     course_links = {

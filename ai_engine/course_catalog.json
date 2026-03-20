@@ -241,6 +241,156 @@
   },
   {
     "id": 25,
+    "title": "Complex Problem Solving - Fundamentals",
+    "skill": "Complex Problem Solving",
+    "level": "beginner",
+    "domain": "technical",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": 26,
+    "title": "Complex Problem Solving - Intermediate",
+    "skill": "Complex Problem Solving",
+    "level": "intermediate",
+    "domain": "technical",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": 27,
+    "title": "Complex Problem Solving - Advanced",
+    "skill": "Complex Problem Solving",
+    "level": "expert",
+    "domain": "technical",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": 28,
+    "title": "Speaking - Fundamentals",
+    "skill": "Speaking",
+    "level": "beginner",
+    "domain": "technical",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/public-speaking"
+  },
+  {
+    "id": 29,
+    "title": "Speaking - Intermediate",
+    "skill": "Speaking",
+    "level": "intermediate",
+    "domain": "technical",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/public-speaking"
+  },
+  {
+    "id": 30,
+    "title": "Speaking - Advanced",
+    "skill": "Speaking",
+    "level": "expert",
+    "domain": "technical",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/public-speaking"
+  },
+  {
+    "id": 31,
+    "title": "Active Learning - Fundamentals",
+    "skill": "Active Learning",
+    "level": "beginner",
+    "domain": "technical",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Active+Learning"
+  },
+  {
+    "id": 32,
+    "title": "Active Learning - Intermediate",
+    "skill": "Active Learning",
+    "level": "intermediate",
+    "domain": "technical",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Active+Learning"
+  },
+  {
+    "id": 33,
+    "title": "Active Learning - Advanced",
+    "skill": "Active Learning",
+    "level": "expert",
+    "domain": "technical",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Active+Learning"
+  },
+  {
+    "id": 34,
+    "title": "Troubleshooting - Fundamentals",
+    "skill": "Troubleshooting",
+    "level": "beginner",
+    "domain": "technical",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Troubleshooting"
+  },
+  {
+    "id": 35,
+    "title": "Troubleshooting - Intermediate",
+    "skill": "Troubleshooting",
+    "level": "intermediate",
+    "domain": "technical",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Troubleshooting"
+  },
+  {
+    "id": 36,
+    "title": "Troubleshooting - Advanced",
+    "skill": "Troubleshooting",
+    "level": "expert",
+    "domain": "technical",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Troubleshooting"
+  },
+  {
+    "id": 37,
+    "title": "Monitoring - Fundamentals",
+    "skill": "Monitoring",
+    "level": "beginner",
+    "domain": "technical",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/project-management-foundations"
+  },
+  {
+    "id": 38,
+    "title": "Monitoring - Intermediate",
+    "skill": "Monitoring",
+    "level": "intermediate",
+    "domain": "technical",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/project-management-foundations"
+  },
+  {
+    "id": 39,
+    "title": "Monitoring - Advanced",
+    "skill": "Monitoring",
+    "level": "expert",
+    "domain": "technical",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/project-management-foundations"
+  },
+  {
+    "id": 40,
     "title": "Management of Personnel Resources - Fundamentals",
     "skill": "Management of Personnel Resources",
     "level": "beginner",
@@ -250,7 +400,7 @@
     "link": "https://www.coursera.org/search?query=Management+of+Personnel+Resources"
   },
   {
-    "id": 26,
+    "id": 41,
     "title": "Management of Personnel Resources - Intermediate",
     "skill": "Management of Personnel Resources",
     "level": "intermediate",
@@ -260,7 +410,7 @@
     "link": "https://www.coursera.org/search?query=Management+of+Personnel+Resources"
   },
   {
-    "id": 27,
+    "id": 42,
     "title": "Management of Personnel Resources - Advanced",
     "skill": "Management of Personnel Resources",
     "level": "expert",
@@ -270,7 +420,7 @@
     "link": "https://www.coursera.org/search?query=Management+of+Personnel+Resources"
   },
   {
-    "id": 28,
+    "id": 43,
     "title": "Reading Comprehension - Fundamentals",
     "skill": "Reading Comprehension",
     "level": "beginner",
@@ -280,7 +430,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 29,
+    "id": 44,
     "title": "Reading Comprehension - Intermediate",
     "skill": "Reading Comprehension",
     "level": "intermediate",
@@ -290,7 +440,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 30,
+    "id": 45,
     "title": "Reading Comprehension - Advanced",
     "skill": "Reading Comprehension",
     "level": "expert",
@@ -300,7 +450,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 31,
+    "id": 46,
     "title": "Critical Thinking - Fundamentals",
     "skill": "Critical Thinking",
     "level": "beginner",
@@ -310,7 +460,7 @@
     "link": "https://www.coursera.org/learn/critical-thinking-skills"
   },
   {
-    "id": 32,
+    "id": 47,
     "title": "Critical Thinking - Intermediate",
     "skill": "Critical Thinking",
     "level": "intermediate",
@@ -320,7 +470,7 @@
     "link": "https://www.coursera.org/learn/critical-thinking-skills"
   },
   {
-    "id": 33,
+    "id": 48,
     "title": "Critical Thinking - Advanced",
     "skill": "Critical Thinking",
     "level": "expert",
@@ -330,7 +480,7 @@
     "link": "https://www.coursera.org/learn/critical-thinking-skills"
   },
   {
-    "id": 34,
+    "id": 49,
     "title": "Judgment and Decision Making - Fundamentals",
     "skill": "Judgment and Decision Making",
     "level": "beginner",
@@ -340,7 +490,7 @@
     "link": "https://www.coursera.org/search?query=Judgment+and+Decision+Making"
   },
   {
-    "id": 35,
+    "id": 50,
     "title": "Judgment and Decision Making - Intermediate",
     "skill": "Judgment and Decision Making",
     "level": "intermediate",
@@ -350,7 +500,7 @@
     "link": "https://www.coursera.org/search?query=Judgment+and+Decision+Making"
   },
   {
-    "id": 36,
+    "id": 51,
     "title": "Judgment and Decision Making - Advanced",
     "skill": "Judgment and Decision Making",
     "level": "expert",
@@ -360,7 +510,7 @@
     "link": "https://www.coursera.org/search?query=Judgment+and+Decision+Making"
   },
   {
-    "id": 37,
+    "id": 52,
     "title": "Active Listening - Fundamentals",
     "skill": "Active Listening",
     "level": "beginner",
@@ -370,7 +520,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 38,
+    "id": 53,
     "title": "Active Listening - Intermediate",
     "skill": "Active Listening",
     "level": "intermediate",
@@ -380,7 +530,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 39,
+    "id": 54,
     "title": "Active Listening - Advanced",
     "skill": "Active Listening",
     "level": "expert",
@@ -390,7 +540,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 40,
+    "id": 55,
     "title": "Speaking - Fundamentals",
     "skill": "Speaking",
     "level": "beginner",
@@ -400,7 +550,7 @@
     "link": "https://www.coursera.org/learn/public-speaking"
   },
   {
-    "id": 41,
+    "id": 56,
     "title": "Speaking - Intermediate",
     "skill": "Speaking",
     "level": "intermediate",
@@ -410,7 +560,7 @@
     "link": "https://www.coursera.org/learn/public-speaking"
   },
   {
-    "id": 42,
+    "id": 57,
     "title": "Speaking - Advanced",
     "skill": "Speaking",
     "level": "expert",
@@ -420,7 +570,7 @@
     "link": "https://www.coursera.org/learn/public-speaking"
   },
   {
-    "id": 43,
+    "id": 58,
     "title": "Active Learning - Fundamentals",
     "skill": "Active Learning",
     "level": "beginner",
@@ -430,7 +580,7 @@
     "link": "https://www.coursera.org/search?query=Active+Learning"
   },
   {
-    "id": 44,
+    "id": 59,
     "title": "Active Learning - Intermediate",
     "skill": "Active Learning",
     "level": "intermediate",
@@ -440,7 +590,7 @@
     "link": "https://www.coursera.org/search?query=Active+Learning"
   },
   {
-    "id": 45,
+    "id": 60,
     "title": "Active Learning - Advanced",
     "skill": "Active Learning",
     "level": "expert",
@@ -450,7 +600,7 @@
     "link": "https://www.coursera.org/search?query=Active+Learning"
   },
   {
-    "id": 46,
+    "id": 61,
     "title": "Monitoring - Fundamentals",
     "skill": "Monitoring",
     "level": "beginner",
@@ -460,7 +610,7 @@
     "link": "https://www.coursera.org/learn/project-management-foundations"
   },
   {
-    "id": 47,
+    "id": 62,
     "title": "Monitoring - Intermediate",
     "skill": "Monitoring",
     "level": "intermediate",
@@ -470,7 +620,7 @@
     "link": "https://www.coursera.org/learn/project-management-foundations"
   },
   {
-    "id": 48,
+    "id": 63,
     "title": "Monitoring - Advanced",
     "skill": "Monitoring",
     "level": "expert",
@@ -480,7 +630,7 @@
     "link": "https://www.coursera.org/learn/project-management-foundations"
   },
   {
-    "id": 49,
+    "id": 64,
     "title": "Persuasion - Fundamentals",
     "skill": "Persuasion",
     "level": "beginner",
@@ -490,7 +640,7 @@
     "link": "https://www.coursera.org/search?query=Persuasion"
   },
   {
-    "id": 50,
+    "id": 65,
     "title": "Persuasion - Intermediate",
     "skill": "Persuasion",
     "level": "intermediate",
@@ -500,7 +650,7 @@
     "link": "https://www.coursera.org/search?query=Persuasion"
   },
   {
-    "id": 51,
+    "id": 66,
     "title": "Persuasion - Advanced",
     "skill": "Persuasion",
     "level": "expert",
@@ -510,7 +660,7 @@
     "link": "https://www.coursera.org/search?query=Persuasion"
   },
   {
-    "id": 52,
+    "id": 67,
     "title": "Social Perceptiveness - Fundamentals",
     "skill": "Social Perceptiveness",
     "level": "beginner",
@@ -520,7 +670,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 53,
+    "id": 68,
     "title": "Social Perceptiveness - Intermediate",
     "skill": "Social Perceptiveness",
     "level": "intermediate",
@@ -530,7 +680,7 @@
     "link": "https://www.coursera.org/learn/communication-skills"
   },
   {
-    "id": 54,
+    "id": 69,
     "title": "Social Perceptiveness - Advanced",
     "skill": "Social Perceptiveness",
     "level": "expert",
@@ -538,5 +688,395 @@
     "duration_weeks": 3,
     "platform": "Coursera",
     "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 70,
+    "title": "Complex Problem Solving - Fundamentals",
+    "skill": "Complex Problem Solving",
+    "level": "beginner",
+    "domain": "business",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": 71,
+    "title": "Complex Problem Solving - Intermediate",
+    "skill": "Complex Problem Solving",
+    "level": "intermediate",
+    "domain": "business",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": 72,
+    "title": "Complex Problem Solving - Advanced",
+    "skill": "Complex Problem Solving",
+    "level": "expert",
+    "domain": "business",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "id": 73,
+    "title": "Active Listening - Fundamentals",
+    "skill": "Active Listening",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 74,
+    "title": "Active Listening - Intermediate",
+    "skill": "Active Listening",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 75,
+    "title": "Active Listening - Advanced",
+    "skill": "Active Listening",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 76,
+    "title": "Monitoring - Fundamentals",
+    "skill": "Monitoring",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/project-management-foundations"
+  },
+  {
+    "id": 77,
+    "title": "Monitoring - Intermediate",
+    "skill": "Monitoring",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/project-management-foundations"
+  },
+  {
+    "id": 78,
+    "title": "Monitoring - Advanced",
+    "skill": "Monitoring",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/project-management-foundations"
+  },
+  {
+    "id": 79,
+    "title": "Social Perceptiveness - Fundamentals",
+    "skill": "Social Perceptiveness",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 80,
+    "title": "Social Perceptiveness - Intermediate",
+    "skill": "Social Perceptiveness",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 81,
+    "title": "Social Perceptiveness - Advanced",
+    "skill": "Social Perceptiveness",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 82,
+    "title": "Coordination - Fundamentals",
+    "skill": "Coordination",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/leadership-management"
+  },
+  {
+    "id": 83,
+    "title": "Coordination - Intermediate",
+    "skill": "Coordination",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/leadership-management"
+  },
+  {
+    "id": 84,
+    "title": "Coordination - Advanced",
+    "skill": "Coordination",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/leadership-management"
+  },
+  {
+    "id": 85,
+    "title": "Time Management - Fundamentals",
+    "skill": "Time Management",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/work-smarter-not-harder"
+  },
+  {
+    "id": 86,
+    "title": "Time Management - Intermediate",
+    "skill": "Time Management",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/work-smarter-not-harder"
+  },
+  {
+    "id": 87,
+    "title": "Time Management - Advanced",
+    "skill": "Time Management",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/work-smarter-not-harder"
+  },
+  {
+    "id": 88,
+    "title": "Reading Comprehension - Fundamentals",
+    "skill": "Reading Comprehension",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 89,
+    "title": "Reading Comprehension - Intermediate",
+    "skill": "Reading Comprehension",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 90,
+    "title": "Reading Comprehension - Advanced",
+    "skill": "Reading Comprehension",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/communication-skills"
+  },
+  {
+    "id": 91,
+    "title": "Speaking - Fundamentals",
+    "skill": "Speaking",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/public-speaking"
+  },
+  {
+    "id": 92,
+    "title": "Speaking - Intermediate",
+    "skill": "Speaking",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/public-speaking"
+  },
+  {
+    "id": 93,
+    "title": "Speaking - Advanced",
+    "skill": "Speaking",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/public-speaking"
+  },
+  {
+    "id": 94,
+    "title": "Critical Thinking - Fundamentals",
+    "skill": "Critical Thinking",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/critical-thinking-skills"
+  },
+  {
+    "id": 95,
+    "title": "Critical Thinking - Intermediate",
+    "skill": "Critical Thinking",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/critical-thinking-skills"
+  },
+  {
+    "id": 96,
+    "title": "Critical Thinking - Advanced",
+    "skill": "Critical Thinking",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/critical-thinking-skills"
+  },
+  {
+    "id": 97,
+    "title": "Operations Analysis - Fundamentals",
+    "skill": "Operations Analysis",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/operations-management"
+  },
+  {
+    "id": 98,
+    "title": "Operations Analysis - Intermediate",
+    "skill": "Operations Analysis",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/operations-management"
+  },
+  {
+    "id": 99,
+    "title": "Operations Analysis - Advanced",
+    "skill": "Operations Analysis",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/operations-management"
+  },
+  {
+    "id": 100,
+    "title": "Judgment and Decision Making - Fundamentals",
+    "skill": "Judgment and Decision Making",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Judgment+and+Decision+Making"
+  },
+  {
+    "id": 101,
+    "title": "Judgment and Decision Making - Intermediate",
+    "skill": "Judgment and Decision Making",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Judgment+and+Decision+Making"
+  },
+  {
+    "id": 102,
+    "title": "Judgment and Decision Making - Advanced",
+    "skill": "Judgment and Decision Making",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Judgment+and+Decision+Making"
+  },
+  {
+    "id": 103,
+    "title": "Management of Personnel Resources - Fundamentals",
+    "skill": "Management of Personnel Resources",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Management+of+Personnel+Resources"
+  },
+  {
+    "id": 104,
+    "title": "Management of Personnel Resources - Intermediate",
+    "skill": "Management of Personnel Resources",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Management+of+Personnel+Resources"
+  },
+  {
+    "id": 105,
+    "title": "Management of Personnel Resources - Advanced",
+    "skill": "Management of Personnel Resources",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/search?query=Management+of+Personnel+Resources"
+  },
+  {
+    "id": 106,
+    "title": "Writing - Fundamentals",
+    "skill": "Writing",
+    "level": "beginner",
+    "domain": "operational",
+    "duration_weeks": 1,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/writing-skills"
+  },
+  {
+    "id": 107,
+    "title": "Writing - Intermediate",
+    "skill": "Writing",
+    "level": "intermediate",
+    "domain": "operational",
+    "duration_weeks": 2,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/writing-skills"
+  },
+  {
+    "id": 108,
+    "title": "Writing - Advanced",
+    "skill": "Writing",
+    "level": "expert",
+    "domain": "operational",
+    "duration_weeks": 3,
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/writing-skills"
   }
 ]
