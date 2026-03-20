@@ -1,0 +1,128 @@
+{
+  "Software Developer": [
+    {
+      "skill": "Reading Comprehension",
+      "required_level": "expert",
+      "level_score": 4.25
+    },
+    {
+      "skill": "Critical Thinking",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Programming",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Systems Evaluation",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Active Listening",
+      "required_level": "expert",
+      "level_score": 3.88
+    },
+    {
+      "skill": "Systems Analysis",
+      "required_level": "expert",
+      "level_score": 3.88
+    },
+    {
+      "skill": "Judgment and Decision Making",
+      "required_level": "expert",
+      "level_score": 3.75
+    },
+    {
+      "skill": "Writing",
+      "required_level": "expert",
+      "level_score": 3.62
+    }
+  ],
+  "Human Resources Manager": [
+    {
+      "skill": "Management of Personnel Resources",
+      "required_level": "expert",
+      "level_score": 4.75
+    },
+    {
+      "skill": "Reading Comprehension",
+      "required_level": "expert",
+      "level_score": 4.38
+    },
+    {
+      "skill": "Critical Thinking",
+      "required_level": "expert",
+      "level_score": 4.25
+    },
+    {
+      "skill": "Judgment and Decision Making",
+      "required_level": "expert",
+      "level_score": 4.25
+    },
+    {
+      "skill": "Active Listening",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Speaking",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Active Learning",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Monitoring",
+      "required_level": "expert",
+      "level_score": 4.12
+    }
+  ],
+  "Marketing Manager": [
+    {
+      "skill": "Persuasion",
+      "required_level": "expert",
+      "level_score": 4.38
+    },
+    {
+      "skill": "Reading Comprehension",
+      "required_level": "expert",
+      "level_score": 4.25
+    },
+    {
+      "skill": "Critical Thinking",
+      "required_level": "expert",
+      "level_score": 4.25
+    },
+    {
+      "skill": "Monitoring",
+      "required_level": "expert",
+      "level_score": 4.25
+    },
+    {
+      "skill": "Active Listening",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Speaking",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Active Learning",
+      "required_level": "expert",
+      "level_score": 4.12
+    },
+    {
+      "skill": "Social Perceptiveness",
+      "required_level": "expert",
+      "level_score": 4.0
+    }
+  ]
+}
