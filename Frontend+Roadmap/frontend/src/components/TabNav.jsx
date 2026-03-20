@@ -1,23 +1,20 @@
 import React from 'react';
 import '../styles/TabNav.css';
 
-export default function TabNav({ step, onTabClick }) {
-  const canSeeResults = step === 3;
-
+export default function TabNav({ activeTab, onSwitch, resultsUnlocked }) {
   return (
     <div className="tab-nav">
       <button
-        className={`tab-btn ${step !== 3 ? 'active' : ''}`}
-        onClick={() => onTabClick('upload')}
+        className={`tab-btn${activeTab === 'upload' ? ' active' : ''}`}
+        onClick={() => onSwitch('upload')}
       >
         Upload
       </button>
       <button
-        className={`tab-btn ${step === 3 ? 'active' : ''} ${!canSeeResults ? 'disabled' : ''}`}
-        onClick={() => canSeeResults && onTabClick('results')}
+        className={`tab-btn${activeTab === 'results' ? ' active' : ''}${!resultsUnlocked ? ' disabled' : ''}`}
+        onClick={() => resultsUnlocked && onSwitch('results')}
       >
-        Results
-        {!canSeeResults && <span className="tab-lock">🔒</span>}
+        Results {!resultsUnlocked && <span className="tab-lock">🔒</span>}
       </button>
     </div>
   );

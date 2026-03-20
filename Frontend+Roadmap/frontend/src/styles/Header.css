@@ -9,13 +9,14 @@
 
 .logo {
   font-family: var(--font-display);
-  font-size: 45px;
+  font-size: 50px;
   letter-spacing: 3px;
   display: flex;
   align-items: center;
+  line-height: 1;
 }
 .logo-acc  { color: var(--accent); }
-.logo-dot  { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); margin: 0 2px 8px; display: inline-block; }
+.logo-dot  { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); margin: 0 2px 12px; display: inline-block; }
 
 .header-right { display: flex; align-items: center; gap: 10px; }
 
@@ -88,3 +89,17 @@
   .header-badge { display: none; }
   .logo { font-size: 22px; }
 }
+
+.start-over-btn {
+  background: transparent; color: var(--muted2);
+  border: 1px solid var(--border-hi); border-radius: 7px;
+  padding: 7px 14px; font-family: var(--font-body); font-size: 11px;
+  font-weight: 600; cursor: pointer; transition: all 0.15s; white-space: nowrap;
+}
+.start-over-btn:hover { color: var(--text); border-color: rgba(255,255,255,0.22); }
+@media (max-width: 480px) { .start-over-btn { display: none; } }
+
+/* Responsive logo and header */
+.logo { font-size: clamp(32px, 6vw, 50px); }
+.logo-dot { width: clamp(5px, 0.9vw, 7px); height: clamp(5px, 0.9vw, 7px); margin-bottom: clamp(8px, 1.5vw, 12px); }
+@media (max-width: 480px) { .header-badge { display: none; } }
