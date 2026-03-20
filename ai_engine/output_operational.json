@@ -5,8 +5,8 @@
     "original_gaps": 3,
     "expanded_gaps": 13,
     "prerequisites_added": 10,
-    "total_steps": 8,
-    "total_weeks": 9,
+    "total_steps": 12,
+    "total_weeks": 17,
     "skill_gap_summary": "The candidate has significant skill gaps in Operation and Control, Equipment Maintenance, and Quality Control Analysis, with a total gap size of 6 across these three critical areas."
   },
   "skill_gaps": [
@@ -63,7 +63,7 @@
       "reason": "Prerequisite automatically added for learning path"
     },
     {
-      "skill": "Programming",
+      "skill": "Mathematics",
       "current_level": 0,
       "required_level": 1,
       "gap_size": 1,
@@ -72,6 +72,42 @@
     },
     {
       "skill": "Systems Analysis",
+      "current_level": 0,
+      "required_level": 1,
+      "gap_size": 1,
+      "auto_added": true,
+      "reason": "Prerequisite automatically added for learning path"
+    },
+    {
+      "skill": "Operations Analysis",
+      "current_level": 0,
+      "required_level": 1,
+      "gap_size": 1,
+      "auto_added": true,
+      "reason": "Prerequisite automatically added for learning path"
+    },
+    {
+      "skill": "Equipment Selection",
+      "current_level": 0,
+      "required_level": 1,
+      "gap_size": 1,
+      "auto_added": true,
+      "reason": "Prerequisite automatically added for learning path"
+    },
+    {
+      "skill": "Operation and Control",
+      "current_level": 0,
+      "required_level": 2,
+      "gap_size": 2
+    },
+    {
+      "skill": "Quality Control Analysis",
+      "current_level": 1,
+      "required_level": 3,
+      "gap_size": 2
+    },
+    {
+      "skill": "Programming",
       "current_level": 0,
       "required_level": 1,
       "gap_size": 1,
@@ -91,64 +127,28 @@
       "current_level": 0,
       "required_level": 2,
       "gap_size": 2
-    },
-    {
-      "skill": "Mathematics",
-      "current_level": 0,
-      "required_level": 1,
-      "gap_size": 1,
-      "auto_added": true,
-      "reason": "Prerequisite automatically added for learning path"
-    },
-    {
-      "skill": "Operations Analysis",
-      "current_level": 0,
-      "required_level": 1,
-      "gap_size": 1,
-      "auto_added": true,
-      "reason": "Prerequisite automatically added for learning path"
-    },
-    {
-      "skill": "Quality Control Analysis",
-      "current_level": 1,
-      "required_level": 3,
-      "gap_size": 2
-    },
-    {
-      "skill": "Equipment Selection",
-      "current_level": 0,
-      "required_level": 1,
-      "gap_size": 1,
-      "auto_added": true,
-      "reason": "Prerequisite automatically added for learning path"
-    },
-    {
-      "skill": "Operation and Control",
-      "current_level": 0,
-      "required_level": 2,
-      "gap_size": 2
     }
   ],
   "learning_path": [
     {
       "step_number": 1,
-      "course_id": 1,
-      "course_title": "Reading Comprehension - Fundamentals",
-      "skill": "Reading Comprehension",
-      "level": "beginner",
-      "duration_weeks": 1,
-      "link": "https://www.coursera.org/learn/communication-skills",
-      "reason": "Prerequisite skill with no current level, starting with fundamentals"
-    },
-    {
-      "step_number": 2,
       "course_id": 4,
       "course_title": "Critical Thinking - Fundamentals",
       "skill": "Critical Thinking",
       "level": "beginner",
       "duration_weeks": 1,
       "link": "https://www.coursera.org/learn/critical-thinking-skills",
-      "reason": "Prerequisite skill with no current level, building on reading comprehension"
+      "reason": "Critical Thinking is a fundamental skill and a prerequisite for other skills"
+    },
+    {
+      "step_number": 2,
+      "course_id": 1,
+      "course_title": "Reading Comprehension - Fundamentals",
+      "skill": "Reading Comprehension",
+      "level": "beginner",
+      "duration_weeks": 1,
+      "link": "https://www.coursera.org/learn/communication-skills",
+      "reason": "Reading Comprehension is a fundamental skill and a prerequisite for other skills"
     },
     {
       "step_number": 3,
@@ -158,58 +158,98 @@
       "level": "beginner",
       "duration_weeks": 1,
       "link": "https://www.coursera.org/learn/project-management-foundations",
-      "reason": "Prerequisite skill with no current level, foundational for production supervision"
+      "reason": "Monitoring is a fundamental skill and a prerequisite for other skills"
     },
     {
       "step_number": 4,
-      "course_id": 7,
-      "course_title": "Programming - Fundamentals",
-      "skill": "Programming",
-      "level": "beginner",
-      "duration_weeks": 1,
-      "link": "https://www.coursera.org/specializations/python",
-      "reason": "Prerequisite skill with no current level, essential for systems analysis and operation"
-    },
-    {
-      "step_number": 5,
       "course_id": 16,
       "course_title": "Systems Analysis - Fundamentals",
       "skill": "Systems Analysis",
       "level": "beginner",
       "duration_weeks": 1,
       "link": "https://www.coursera.org/learn/systems-thinking",
-      "reason": "Building on programming, crucial for understanding production systems"
+      "reason": "Systems Analysis is a fundamental skill and a prerequisite for other skills"
     },
     {
-      "step_number": 6,
-      "course_id": 34,
-      "course_title": "Troubleshooting - Fundamentals",
-      "skill": "Troubleshooting",
-      "level": "beginner",
-      "duration_weeks": 1,
-      "link": "https://www.coursera.org/search?query=Troubleshooting",
-      "reason": "Essential skill for production supervision, following systems analysis"
-    },
-    {
-      "step_number": 7,
+      "step_number": 5,
       "course_id": 97,
       "course_title": "Operations Analysis - Fundamentals",
       "skill": "Operations Analysis",
       "level": "beginner",
       "duration_weeks": 1,
       "link": "https://www.coursera.org/learn/operations-management",
-      "reason": "Foundational for understanding operational aspects of production"
+      "reason": "Operations Analysis is a fundamental skill and a prerequisite for other skills"
+    },
+    {
+      "step_number": 6,
+      "course_id": 7,
+      "course_title": "Programming - Fundamentals",
+      "skill": "Programming",
+      "level": "beginner",
+      "duration_weeks": 1,
+      "link": "https://www.coursera.org/specializations/python",
+      "reason": "Programming is a fundamental skill and a prerequisite for other skills"
+    },
+    {
+      "step_number": 7,
+      "course_id": 34,
+      "course_title": "Troubleshooting - Fundamentals",
+      "skill": "Troubleshooting",
+      "level": "beginner",
+      "duration_weeks": 1,
+      "link": "https://www.coursera.org/search?query=Troubleshooting",
+      "reason": "Troubleshooting is a fundamental skill and a prerequisite for other skills"
     },
     {
       "step_number": 8,
+      "course_id": 17,
+      "course_title": "Systems Analysis - Intermediate",
+      "skill": "Systems Analysis",
+      "level": "intermediate",
+      "duration_weeks": 2,
+      "link": "https://www.coursera.org/learn/systems-thinking",
+      "reason": "Systems Analysis is a prerequisite for Quality Control Analysis and needs to be at an intermediate level"
+    },
+    {
+      "step_number": 9,
       "course_id": 98,
       "course_title": "Operations Analysis - Intermediate",
       "skill": "Operations Analysis",
       "level": "intermediate",
       "duration_weeks": 2,
       "link": "https://www.coursera.org/learn/operations-management",
-      "reason": "Building on operations analysis fundamentals, enhancing understanding"
+      "reason": "Operations Analysis is a prerequisite for Quality Control Analysis and needs to be at an intermediate level"
+    },
+    {
+      "step_number": 10,
+      "course_id": 38,
+      "course_title": "Monitoring - Intermediate",
+      "skill": "Monitoring",
+      "level": "intermediate",
+      "duration_weeks": 2,
+      "link": "https://www.coursera.org/learn/project-management-foundations",
+      "reason": "Monitoring is a prerequisite for Operation and Control and needs to be at an intermediate level"
+    },
+    {
+      "step_number": 11,
+      "course_id": 8,
+      "course_title": "Programming - Intermediate",
+      "skill": "Programming",
+      "level": "intermediate",
+      "duration_weeks": 2,
+      "link": "https://www.coursera.org/specializations/python",
+      "reason": "Programming is a prerequisite for Equipment Maintenance and needs to be at an intermediate level"
+    },
+    {
+      "step_number": 12,
+      "course_id": 35,
+      "course_title": "Troubleshooting - Intermediate",
+      "skill": "Troubleshooting",
+      "level": "intermediate",
+      "duration_weeks": 2,
+      "link": "https://www.coursera.org/search?query=Troubleshooting",
+      "reason": "Troubleshooting is a prerequisite for Equipment Maintenance and needs to be at an intermediate level"
     }
   ],
-  "reasoning_trace": "The candidate is currently missing essential skills such as Operation and Control, Equipment Maintenance, and Quality Control Analysis, with significant gaps in critical thinking, reading comprehension, and monitoring, which are fundamental to the Production Supervisor role. Certain prerequisite skills like Critical Thinking, Reading Comprehension, and Monitoring were automatically added to the learning path as they are essential for understanding and applying the concepts of Operation and Control, Equipment Maintenance, and Quality Control Analysis. The learning path is ordered to first establish a foundation in fundamental skills like Reading Comprehension and Critical Thinking, before progressing to more technical skills like Programming and Systems Analysis, and finally applying these skills to Operations Analysis. This personalized learning path is more efficient than a generic onboarding program as it addresses the candidate's specific skill gaps and prerequisites, allowing for a tailored approach to learning and development. Upon completion of the 9-week learning path, the candidate will be capable of applying critical thinking and problem-solving skills to monitor and control operations, analyze quality control data, and troubleshoot equipment issues, ultimately becoming a competent Production Supervisor."
+  "reasoning_trace": "The candidate is currently missing essential skills such as Operation and Control, Equipment Maintenance, and Quality Control Analysis, with significant gaps in these areas. Certain prerequisite skills like Critical Thinking, Reading Comprehension, and Monitoring were automatically added to the learning path as they are fundamental to understanding and applying the more advanced skills required for the Production Supervisor role. The learning path is ordered to first establish a foundation in critical thinking, analysis, and programming, and then build upon these skills with more advanced training, allowing for a logical progression and reinforcement of knowledge. This personalized learning path is more efficient than a generic onboarding program as it targets the candidate's specific skill gaps and provides a tailored approach to development, resulting in a total duration of 17 weeks. Upon completion, the candidate will be capable of effectively monitoring and controlling operations, analyzing systems and quality control, and troubleshooting issues, ultimately possessing the necessary skills to excel as a Production Supervisor. The structured approach ensures that the candidate develops a comprehensive understanding of the required skills, enabling them to make informed decisions and drive results in their new role."
 }

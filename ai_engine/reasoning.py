@@ -1,9 +1,11 @@
 # reasoning.py
 import json
+import os
 from groq import Groq
+from dotenv import load_dotenv
 
-# ---- Setup Groq ----
-client = Groq(api_key="REMOVED_API_KEY")
+load_dotenv()
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 MODEL = "llama-3.3-70b-versatile"
 
 

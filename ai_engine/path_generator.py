@@ -4,8 +4,11 @@ from groq import Groq
 from rag import retrieve_all_courses, format_courses_for_prompt, load_catalog
 from skill_graph import expand_skills_with_prerequisites, skill_graph
 
-# ---- Setup Groq ----
-client = Groq(api_key="REMOVED_API_KEY")
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 MODEL = "llama-3.3-70b-versatile"
 
 
